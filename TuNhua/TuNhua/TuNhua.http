@@ -1,0 +1,6 @@
+@TuNhua_HostAddress = http://localhost:5022
+
+GET {{TuNhua_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
